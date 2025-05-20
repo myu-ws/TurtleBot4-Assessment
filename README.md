@@ -1,24 +1,24 @@
-# 🧭 TurtleBot4 Autonomous Navigation
+# TurtleBot4 Autonomous Navigation
 
-### 🎥 Demo Video  
+### Demo Video  
 **Watch the demonstration here:**  
-https://www.play.mdx.ac.uk/media/t/1_niml867m
+**[Link to Video](https://www.play.mdx.ac.uk/media/t/1_niml867m)**
 
 ---
 
-## 📌 Overview  
+## Overview  
 This project demonstrates a TurtleBot4 robot navigating to multiple user-defined poses on a classroom map using Python and ROS2. The assessment builds upon the basic pass criteria and includes additional features for improved performance and usability.
 
 ---
 
-## ✅ Basic Functionality
+## Basic Functionality
 
 - The robot receives a user-specified destination and autonomously navigates to it.  
 - Multiple destinations are supported.
 
 ---
 
-## 🌟 Additional Feature
+## Additional Feature
 
 If a navigation attempt fails:
 
@@ -27,7 +27,7 @@ If a navigation attempt fails:
 
 ---
 
-## 🗂️ Files and Descriptions
+## Files and Descriptions
 
 | File | Description |
 |------|-------------|
