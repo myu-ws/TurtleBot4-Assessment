@@ -32,9 +32,9 @@ If a navigation attempt fails:
 | File | Description |
 |------|-------------|
 | `NavigatorRobot.py` | A user-interactive Python script that lets the TurtleBot4 navigate to predefined goals and return home if a navigation attempt fails. |
-| `navigate_with_fallback.py` | Navigation script with 10-second user prompt on failure; returns to home if no new input is received. |
-| `navigation.yaml` | Parameters for TurtleBot4 path planning and navigation. |
-| `localisation.yaml` | Parameters for AMCL-based localization on the map. |
+| `NavigatorRobot2.py` | Navigation script with 10-second user prompt on failure; returns to home if no new input is received. |
+| `nav2.yaml` | Parameters for TurtleBot4 path planning and navigation. |
+| `localization.yaml` | Parameters for AMCL-based localization on the map. |
 | `Hatchcroft_Lab.pgm` & `Hatchcroft_Lab.yaml` | Map and associated YAML file used for localization and navigation during the demonstration. Describes resolution, origin, and occupancy thresholds for the Hatchcroft Lab layout. |
 
 ---
